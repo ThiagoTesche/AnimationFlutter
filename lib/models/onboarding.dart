@@ -9,17 +9,17 @@ class OnboardingModel {
 List<OnboardingModel> tabs = [
   OnboardingModel(
     'lib/assets/order.json',
-    'Escolha um gosto',
-    'When you order Eat Street , \nwe\'ll hook you up with exclusive \ncoupons.',
+    'Escolha um sabor',
+    'Quando você fizer um pedido no \n  Eat Street, nós lhe ofereceremos \ncupons exclusivos.',
   ),
   OnboardingModel(
     'lib/assets/interaction.json',
-    'Discover Places',
-    'We make it simple to find the \nfood you crave. Enter your \naddress and let',
+    'Descubra lugares',
+    'Nós fazemos isso simples \npara encontrar a comida que você deseja. Insira seu endereço \ne nós fazemos o resto!',
   ),
   OnboardingModel(
     'lib/assets/delivery.json',
-    'Pick Up Or',
-    'We make food ordering fast ,\n simple and free - no matter if you \norder',
+    'Entrega rápida',
+    'Tornamos os pedidos de comida \n rápidos,  simples e gratuitos - não importa da onde você faz o pedido.',
   ),
 ];

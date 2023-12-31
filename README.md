@@ -1,6 +1,8 @@
 # animation_flutter
 
-A new Flutter project.
+A new Flutter project that is an animation slide inspired by this project:
+
+- https://www.youtube.com/watch?v=5vPchU0-4x4&feature=youtu.be&ab_channel=JideGuru
 
 ## Getting Started
 
