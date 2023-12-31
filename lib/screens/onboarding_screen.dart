@@ -116,7 +116,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     );
   }
 
-  _handleChangePage() {
+  void _handleChangePage() {
     if (_currentIndex == 2) {
       _pageController.animateToPage(
         0,

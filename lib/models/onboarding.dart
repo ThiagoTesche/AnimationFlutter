@@ -9,7 +9,7 @@ class OnboardingModel {
 List<OnboardingModel> tabs = [
   OnboardingModel(
     'lib/assets/order.json',
-    'Choose A Tasty',
+    'Escolha um gosto',
     'When you order Eat Street , \nwe\'ll hook you up with exclusive \ncoupons.',
   ),
   OnboardingModel(
